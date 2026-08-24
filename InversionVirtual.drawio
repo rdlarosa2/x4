@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="610" x="640" y="810" as="geometry" />
+        </mxCell>
         <mxCell id="TaAfPVjNGk2M9s6isb2M-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="550.44" width="610" x="640" y="239.56" as="geometry" />
         </mxCell>
@@ -208,6 +211,40 @@
         </mxCell>
         <mxCell id="TaAfPVjNGk2M9s6isb2M-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Capa de Sistemas&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="35.96" width="145" x="872.5" y="237" as="geometry" />
+        </mxCell>
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-46" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="QM&lt;div&gt;Composición&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="89" x="1061" y="924" as="geometry" />
+        </mxCell>
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13px;&quot;&gt;xxx_ms&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="769" y="937" as="geometry" />
+        </mxCell>
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-48" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" target="TaAfPVjNGk2M9s6isb2M-46" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="889" y="977" as="sourcePoint" />
+            <mxPoint x="939" y="927" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-49" connectable="0" parent="TaAfPVjNGk2M9s6isb2M-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=12;fontColor=default;" value="Guarda&lt;div&gt;apertura&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0001" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-50" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TaAfPVjNGk2M9s6isb2M-47" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="967" />
+            </Array>
+            <mxPoint x="440" y="590" as="sourcePoint" />
+            <mxPoint x="720" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-51" connectable="0" parent="TaAfPVjNGk2M9s6isb2M-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=12;fontColor=default;" value="Escucha evento" vertex="1">
+          <mxGeometry relative="1" x="0.2903" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaAfPVjNGk2M9s6isb2M-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Capa de Composición (de productos)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="35.96" width="145" x="872.5" y="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
