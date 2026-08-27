@@ -299,11 +299,8 @@
         <mxCell id="ormEVUgUlAs9o-v-I0Os-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="260" width="599" x="81" y="576" as="geometry" />
         </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="110" width="790" x="10" y="80" as="geometry" />
-        </mxCell>
         <mxCell id="um1ZRL41FU8YLF6M3jfA-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="220" width="500" x="180" y="300" as="geometry" />
+          <mxGeometry height="220" width="450" x="180" y="300" as="geometry" />
         </mxCell>
         <mxCell id="um1ZRL41FU8YLF6M3jfA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Kafka&lt;div&gt;Transactions&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="271" y="440" as="geometry" />
@@ -365,31 +362,10 @@
             <mxPoint x="295" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-3" parent="1" style="shape=loopLimit;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;EKS Producers&lt;/div&gt;&lt;div&gt;+ Kafka API&lt;/div&gt;" vertex="1">
-          <mxGeometry height="47.95031055900621" width="100" x="680" y="830" as="geometry" />
-        </mxCell>
         <mxCell id="ormEVUgUlAs9o-v-I0Os-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;EKS Producers&lt;/div&gt;&lt;div&gt;+ Kafka API&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="271" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="IBM iSeries" vertex="1">
-          <mxGeometry height="40" width="100" x="40" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Vault Core - Eventos&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="130" x="170" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="CDT" vertex="1">
-          <mxGeometry height="40" width="100" x="320" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Finacle" vertex="1">
-          <mxGeometry height="40" width="100" x="440" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="SAP" vertex="1">
-          <mxGeometry height="40" width="100" x="553" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="MDM&lt;div&gt;Maestros Cliente&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="666" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ormEVUgUlAs9o-v-I0Os-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.28;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="um1ZRL41FU8YLF6M3jfA-4" value="">
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-12" edge="1" parent="1" source="ormEVUgUlAs9o-v-I0Os-11" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.28;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.429;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" target="um1ZRL41FU8YLF6M3jfA-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="320" y="190" as="sourcePoint" />
             <mxPoint x="370" y="140" as="targetPoint" />
@@ -506,6 +482,30 @@
         </mxCell>
         <mxCell id="ormEVUgUlAs9o-v-I0Os-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="DLQ" vertex="1">
           <mxGeometry height="60" width="120" x="464" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="vVnCWBFUzBWeXjyab2Jl-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="110" width="790" x="-33" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-11" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="790" as="geometry" />
+        </mxCell>
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-5" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="IBM iSeries" vertex="1">
+          <mxGeometry height="40" width="100" x="33" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-6" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Vault Core - Eventos&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="130" x="163" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-7" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="CDT" vertex="1">
+          <mxGeometry height="40" width="100" x="313" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-8" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="Finacle" vertex="1">
+          <mxGeometry height="40" width="100" x="433" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-9" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="SAP" vertex="1">
+          <mxGeometry height="40" width="100" x="546" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ormEVUgUlAs9o-v-I0Os-10" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="MDM&lt;div&gt;Maestros Cliente&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="659" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
