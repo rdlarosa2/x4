@@ -507,6 +507,9 @@
         <mxCell id="ormEVUgUlAs9o-v-I0Os-10" parent="vVnCWBFUzBWeXjyab2Jl-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" value="MDM&lt;div&gt;Maestros Cliente&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="659" y="40" as="geometry" />
         </mxCell>
+        <mxCell id="vVnCWBFUzBWeXjyab2Jl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fuentes productoras de datos" vertex="1">
+          <mxGeometry height="30" width="169" x="-29" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
