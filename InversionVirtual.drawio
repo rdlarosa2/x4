@@ -370,7 +370,7 @@
           <mxGeometry height="30" width="60" x="524" y="775" as="geometry" />
         </mxCell>
         <mxCell id="ormEVUgUlAs9o-v-I0Os-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Capa de anti-corrupción&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;y Data Quality&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="445" y="600" as="geometry" />
+          <mxGeometry height="30" width="230" x="456" y="596" as="geometry" />
         </mxCell>
         <mxCell id="ormEVUgUlAs9o-v-I0Os-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Capa de persistencia" vertex="1">
           <mxGeometry height="30" width="60" x="271" y="775" as="geometry" />
