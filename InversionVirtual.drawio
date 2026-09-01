@@ -542,7 +542,7 @@
         <mxCell id="XbPtzVOeDQOqJAWRF31W-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EKS OUT" vertex="1">
           <mxGeometry height="30" width="60" x="160" y="533" as="geometry" />
         </mxCell>
-        <mxCell id="XbPtzVOeDQOqJAWRF31W-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=classic;startFill=1;endArrow=none;endFill=0;" value="">
+        <mxCell id="XbPtzVOeDQOqJAWRF31W-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startArrow=none;startFill=0;endArrow=classic;endFill=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="730" />
