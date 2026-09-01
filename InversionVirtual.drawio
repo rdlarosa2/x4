@@ -524,15 +524,6 @@
         <mxCell id="XbPtzVOeDQOqJAWRF31W-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="data de composicion de larga duracion" vertex="1">
           <mxGeometry height="30" width="60" x="530" y="895" as="geometry" />
         </mxCell>
-        <mxCell id="XbPtzVOeDQOqJAWRF31W-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=0;" target="XbPtzVOeDQOqJAWRF31W-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="392" />
-            </Array>
-            <mxPoint x="440" y="640" as="sourcePoint" />
-            <mxPoint x="490" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XbPtzVOeDQOqJAWRF31W-22" edge="1" parent="1" source="ormEVUgUlAs9o-v-I0Os-14" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="um1ZRL41FU8YLF6M3jfA-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="150" y="580" as="sourcePoint" />
