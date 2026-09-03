@@ -575,6 +575,9 @@
         </mxCell>
         <mxCell id="um1ZRL41FU8YLF6M3jfA-10" edge="1" parent="1" source="um1ZRL41FU8YLF6M3jfA-8" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xoNmrETTT3NEe8k9GLE8-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="670" />
+            </Array>
             <mxPoint x="362" y="675" as="sourcePoint" />
             <mxPoint x="361.42857142857156" y="715" as="targetPoint" />
           </mxGeometry>
