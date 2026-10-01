@@ -682,6 +682,9 @@
         <mxCell id="T2HUTbHX2L0TrahcZyxE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Micros Composición Larga Duración" vertex="1">
           <mxGeometry height="40" width="160" x="120" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="T2HUTbHX2L0TrahcZyxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Micros Consulta" vertex="1">
+          <mxGeometry height="40" width="160" x="120" y="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
