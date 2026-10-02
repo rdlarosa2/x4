@@ -662,7 +662,7 @@
           <mxGeometry height="77" width="160" x="-34" y="417" as="geometry" />
         </mxCell>
         <mxCell id="T2HUTbHX2L0TrahcZyxE-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="230" width="820" x="150" y="320" as="geometry" />
+          <mxGeometry height="230" width="800" x="150" y="320" as="geometry" />
         </mxCell>
         <mxCell id="T2HUTbHX2L0TrahcZyxE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ACL&lt;div&gt;(pods de microservicios)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="200" y="440" as="geometry" />
@@ -709,9 +709,6 @@
         <mxCell id="T2HUTbHX2L0TrahcZyxE-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="EKS NOMAD (por ambiente) - Flujo de procesamiento" vertex="1">
           <mxGeometry height="30" width="340" x="510" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="T2HUTbHX2L0TrahcZyxE-18" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=30;indent=100;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="410" y="190" as="geometry" />
-        </mxCell>
         <mxCell id="T2HUTbHX2L0TrahcZyxE-21" edge="1" parent="1" source="T2HUTbHX2L0TrahcZyxE-19" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.993;exitY=0.515;exitDx=0;exitDy=0;exitPerimeter=0;" target="T2HUTbHX2L0TrahcZyxE-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="390" y="250" as="sourcePoint" />
@@ -732,6 +729,21 @@
         </mxCell>
         <mxCell id="T2HUTbHX2L0TrahcZyxE-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kafka / Strimzi&lt;div&gt;Tópicos por dominio&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2" y="444" as="geometry" />
+        </mxCell>
+        <mxCell id="RKPj9NtQrFxqJ1s6giS2-3" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="990" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="RKPj9NtQrFxqJ1s6giS2-1" parent="RKPj9NtQrFxqJ1s6giS2-3" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" value="" vertex="1">
+          <mxGeometry height="80" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RKPj9NtQrFxqJ1s6giS2-2" parent="RKPj9NtQrFxqJ1s6giS2-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API&lt;div&gt;Gateway&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RKPj9NtQrFxqJ1s6giS2-4" edge="1" parent="1" source="T2HUTbHX2L0TrahcZyxE-10" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RKPj9NtQrFxqJ1s6giS2-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="930" y="420" as="sourcePoint" />
+            <mxPoint x="980" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
