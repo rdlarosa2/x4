@@ -1451,15 +1451,6 @@
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="390" width="225" x="467" y="388" as="geometry" />
         </mxCell>
-        <mxCell id="T2HUTbHX2L0TrahcZyxE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Micros Composición Corta Duración" vertex="1">
-          <mxGeometry height="40" width="160" x="-270" y="710" as="geometry" />
-        </mxCell>
-        <mxCell id="T2HUTbHX2L0TrahcZyxE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Micros Composición Larga Duración" vertex="1">
-          <mxGeometry height="40" width="160" x="-270" y="770" as="geometry" />
-        </mxCell>
-        <mxCell id="T2HUTbHX2L0TrahcZyxE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Micros Consulta" vertex="1">
-          <mxGeometry height="40" width="160" x="-270" y="830" as="geometry" />
-        </mxCell>
         <mxCell id="T2HUTbHX2L0TrahcZyxE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Composición&lt;div&gt;(pods de microservicios)&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="910" y="1065" as="geometry" />
         </mxCell>
@@ -1637,7 +1628,7 @@
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-41" parent="gVOW4ynWaWhtS3BbCfwx-39" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="80" width="180" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVOW4ynWaWhtS3BbCfwx-42" parent="gVOW4ynWaWhtS3BbCfwx-39" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL" vertex="1">
+        <mxCell id="gVOW4ynWaWhtS3BbCfwx-42" parent="gVOW4ynWaWhtS3BbCfwx-39" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro Exposición" vertex="1">
           <mxGeometry height="40" width="140" x="30" y="50" as="geometry" />
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-43" parent="gVOW4ynWaWhtS3BbCfwx-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Namespace: Bonos" vertex="1">
@@ -1649,7 +1640,7 @@
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-45" parent="gVOW4ynWaWhtS3BbCfwx-44" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="80" width="180" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVOW4ynWaWhtS3BbCfwx-46" parent="gVOW4ynWaWhtS3BbCfwx-44" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL" vertex="1">
+        <mxCell id="gVOW4ynWaWhtS3BbCfwx-46" parent="gVOW4ynWaWhtS3BbCfwx-44" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro&amp;nbsp; Exposición" vertex="1">
           <mxGeometry height="40" width="140" x="30" y="50" as="geometry" />
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-47" parent="gVOW4ynWaWhtS3BbCfwx-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Namespace: CDT" vertex="1">
@@ -1658,7 +1649,7 @@
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-48" parent="gVOW4ynWaWhtS3BbCfwx-38" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="80" width="180" x="10" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="gVOW4ynWaWhtS3BbCfwx-49" parent="gVOW4ynWaWhtS3BbCfwx-38" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL" vertex="1">
+        <mxCell id="gVOW4ynWaWhtS3BbCfwx-49" parent="gVOW4ynWaWhtS3BbCfwx-38" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro Exposición" vertex="1">
           <mxGeometry height="40" width="140" x="30" y="300" as="geometry" />
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-50" parent="gVOW4ynWaWhtS3BbCfwx-38" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Namespace: Depositos" vertex="1">
