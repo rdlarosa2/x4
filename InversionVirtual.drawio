@@ -1608,9 +1608,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W980Cbsox3sD-klUzQKw-48" parent="W980Cbsox3sD-klUzQKw-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Consumidor 1" vertex="1">
-          <mxGeometry height="80" width="120" x="1410" y="550" as="geometry" />
+          <mxGeometry height="80" width="120" x="965" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="W980Cbsox3sD-klUzQKw-49" edge="1" parent="W980Cbsox3sD-klUzQKw-1" source="W980Cbsox3sD-klUzQKw-8" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="W980Cbsox3sD-klUzQKw-48" value="">
+        <mxCell id="W980Cbsox3sD-klUzQKw-49" edge="1" parent="W980Cbsox3sD-klUzQKw-1" source="W980Cbsox3sD-klUzQKw-8" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="W980Cbsox3sD-klUzQKw-48" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1309" y="546" as="sourcePoint" />
             <mxPoint x="1410" y="546" as="targetPoint" />
