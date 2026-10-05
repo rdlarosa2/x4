@@ -1457,15 +1457,6 @@
         <mxCell id="W980Cbsox3sD-klUzQKw-6" parent="W980Cbsox3sD-klUzQKw-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Productores de eventos (Sistemas Core)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="77" width="140" x="4.329999999999984" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="W980Cbsox3sD-klUzQKw-7" connectable="0" parent="W980Cbsox3sD-klUzQKw-1" style="group" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="972" y="860" as="geometry" />
-        </mxCell>
-        <mxCell id="W980Cbsox3sD-klUzQKw-8" parent="W980Cbsox3sD-klUzQKw-7" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" value="" vertex="1">
-          <mxGeometry height="80" width="80" as="geometry" />
-        </mxCell>
-        <mxCell id="W980Cbsox3sD-klUzQKw-9" parent="W980Cbsox3sD-klUzQKw-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API&lt;div&gt;Gateway&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="10" y="30" as="geometry" />
-        </mxCell>
         <mxCell id="W980Cbsox3sD-klUzQKw-10" parent="W980Cbsox3sD-klUzQKw-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="80" width="180" x="490" y="680" as="geometry" />
         </mxCell>
@@ -1610,7 +1601,7 @@
         <mxCell id="W980Cbsox3sD-klUzQKw-46" parent="W980Cbsox3sD-klUzQKw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;cluster: cluster-captaciones-consultas&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="210" x="920" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="W980Cbsox3sD-klUzQKw-47" edge="1" parent="W980Cbsox3sD-klUzQKw-1" source="W980Cbsox3sD-klUzQKw-32" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="W980Cbsox3sD-klUzQKw-8" value="">
+        <mxCell id="W980Cbsox3sD-klUzQKw-47" edge="1" parent="W980Cbsox3sD-klUzQKw-1" source="W980Cbsox3sD-klUzQKw-39" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="W980Cbsox3sD-klUzQKw-8" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1150" y="570" as="sourcePoint" />
             <mxPoint x="1200" y="520" as="targetPoint" />
@@ -1738,6 +1729,12 @@
         </mxCell>
         <mxCell id="W980Cbsox3sD-klUzQKw-58" parent="W980Cbsox3sD-klUzQKw-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kafka" vertex="1">
           <mxGeometry height="30" width="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W980Cbsox3sD-klUzQKw-8" parent="W980Cbsox3sD-klUzQKw-1" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="990" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="W980Cbsox3sD-klUzQKw-9" parent="W980Cbsox3sD-klUzQKw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API&lt;div&gt;Gateway&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1000" y="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
