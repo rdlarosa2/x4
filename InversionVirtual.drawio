@@ -1802,22 +1802,22 @@
         <mxCell id="s6apE1WCr5RKAu7l5XPA-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="693.85" width="210" x="-30" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL InversionVirtual" vertex="1">
+        <mxCell id="s6apE1WCr5RKAu7l5XPA-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL InversionVirtual" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-7.722772277227719" y="494.1064102564103" as="geometry" />
         </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL&amp;nbsp; CDT Materializado" vertex="1">
+        <mxCell id="s6apE1WCr5RKAu7l5XPA-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; CDT Materializado" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-7.722772277227719" y="604.3628205128206" as="geometry" />
         </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL&amp;nbsp; CDT Desmaterializado" vertex="1">
+        <mxCell id="s6apE1WCr5RKAu7l5XPA-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; CDT Desmaterializado" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-5.495049504950494" y="710.2089743589744" as="geometry" />
         </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL&amp;nbsp; Bonos" vertex="1">
+        <mxCell id="s6apE1WCr5RKAu7l5XPA-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; Bonos" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-4.670000000000002" y="813.85" as="geometry" />
         </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL&amp;nbsp; Cuentas Tradiciones" vertex="1">
+        <mxCell id="s6apE1WCr5RKAu7l5XPA-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; Cuentas Tradiciones" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-1.9699999999999989" y="914.75" as="geometry" />
         </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL&amp;nbsp; Cuentas AFC" vertex="1">
+        <mxCell id="s6apE1WCr5RKAu7l5XPA-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; Cuentas AFC" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-1.9699999999999989" y="1023.85" as="geometry" />
         </mxCell>
       </root>
