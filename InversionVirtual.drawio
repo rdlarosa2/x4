@@ -1676,15 +1676,15 @@
             <mxPoint x="290" y="684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqKhT8ipmdsaSvjeYzlw-2" edge="1" parent="1" source="s6apE1WCr5RKAu7l5XPA-9" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="p7jhkjTkUhasv_bh_fnV-13" value="">
+        <mxCell id="EqKhT8ipmdsaSvjeYzlw-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="p7jhkjTkUhasv_bh_fnV-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="210" y="956" as="sourcePoint" />
+            <mxPoint x="153.97059405940627" y="936.8012820512822" as="sourcePoint" />
             <mxPoint x="270" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqKhT8ipmdsaSvjeYzlw-3" edge="1" parent="1" source="s6apE1WCr5RKAu7l5XPA-10" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="p7jhkjTkUhasv_bh_fnV-13" value="">
+        <mxCell id="EqKhT8ipmdsaSvjeYzlw-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="p7jhkjTkUhasv_bh_fnV-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="220" y="1077" as="sourcePoint" />
+            <mxPoint x="153.97059405940627" y="1045.9012820512821" as="sourcePoint" />
             <mxPoint x="270" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1724,16 +1724,10 @@
             <mxPoint x="-72" y="839.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OoweWPuMd_wB4ea6UY7f-5" edge="1" parent="1" source="p7jhkjTkUhasv_bh_fnV-20" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="s6apE1WCr5RKAu7l5XPA-9" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-268" y="844" as="sourcePoint" />
-            <mxPoint x="-30" y="966" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OoweWPuMd_wB4ea6UY7f-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.025;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" target="s6apE1WCr5RKAu7l5XPA-10" value="">
+        <mxCell id="OoweWPuMd_wB4ea6UY7f-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.025;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-240" y="740" as="sourcePoint" />
-            <mxPoint x="131" y="1051" as="targetPoint" />
+            <mxPoint x="1.9285148514850334" y="1076.9494871794868" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p7jhkjTkUhasv_bh_fnV-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" value="" vertex="1">
@@ -1804,12 +1798,6 @@
         </mxCell>
         <mxCell id="s6apE1WCr5RKAu7l5XPA-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; Bonos" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-4.670000000000002" y="813.85" as="geometry" />
-        </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; Cuentas Tradiciones" vertex="1">
-          <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-1.9699999999999989" y="914.75" as="geometry" />
-        </mxCell>
-        <mxCell id="s6apE1WCr5RKAu7l5XPA-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro ACL&amp;nbsp; Cuentas AFC" vertex="1">
-          <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-1.9699999999999989" y="1023.85" as="geometry" />
         </mxCell>
         <mxCell id="p7jhkjTkUhasv_bh_fnV-26" edge="1" parent="1" source="p7jhkjTkUhasv_bh_fnV-20" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.017;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;" target="s6apE1WCr5RKAu7l5XPA-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
