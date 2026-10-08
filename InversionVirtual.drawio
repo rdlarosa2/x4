@@ -1831,6 +1831,9 @@
       <root>
         <mxCell id="jasQvDKlpOOdnAEnOWcL-0" />
         <mxCell id="jasQvDKlpOOdnAEnOWcL-1" parent="jasQvDKlpOOdnAEnOWcL-0" />
+        <mxCell id="jasQvDKlpOOdnAEnOWcL-22" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;fillColor=none;strokeColor=#7F00FF;" value="" vertex="1">
+          <mxGeometry height="166" width="247.46" x="-47.46" y="430" as="geometry" />
+        </mxCell>
         <mxCell id="jasQvDKlpOOdnAEnOWcL-2" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="770" width="254" x="-710" y="330" as="geometry" />
         </mxCell>
@@ -1907,7 +1910,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jasQvDKlpOOdnAEnOWcL-32" parent="jasQvDKlpOOdnAEnOWcL-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Namespace:&amp;nbsp;nomad-acl-prod-pasi-capt-inversion_virtual-dev&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="206.58" x="-20" y="420" as="geometry" />
+          <mxGeometry height="88.21" width="220" x="-33.730000000000004" y="420" as="geometry" />
         </mxCell>
         <mxCell id="jasQvDKlpOOdnAEnOWcL-33" parent="jasQvDKlpOOdnAEnOWcL-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Para definir el nivel de los namespaces se debe averiguar el tráfico de dominio subnivel 3 o dominio subnivel 4&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="149" width="580" x="-790" y="804" as="geometry" />
@@ -2167,8 +2170,8 @@
         <mxCell id="jasQvDKlpOOdnAEnOWcL-26" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro ACL&amp;nbsp; Bonos" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="-1.7763568394002505e-15" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="jasQvDKlpOOdnAEnOWcL-22" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;fillColor=none;strokeColor=#7F00FF;" value="" vertex="1">
-          <mxGeometry height="166" width="247.46" x="-47.46" y="430" as="geometry" />
+        <mxCell id="ZjS0UiUA1B22g3CVf3Rr-0" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;fillColor=none;strokeColor=#7F00FF;" value="" vertex="1">
+          <mxGeometry height="166" width="247.46" x="-45.75999999999999" y="617.08" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
