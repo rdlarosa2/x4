@@ -1933,22 +1933,22 @@
         <mxCell id="jasQvDKlpOOdnAEnOWcL-39" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="611.79" width="190" x="945" y="468.21" as="geometry" />
         </mxCell>
-        <mxCell id="jasQvDKlpOOdnAEnOWcL-40" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro&amp;nbsp; Exposición Inversion Virtual" vertex="1">
+        <mxCell id="jasQvDKlpOOdnAEnOWcL-40" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Micro&amp;nbsp; Exposición Inversion Virtual" vertex="1">
           <mxGeometry height="40" width="140" x="960" y="494.11" as="geometry" />
         </mxCell>
-        <mxCell id="jasQvDKlpOOdnAEnOWcL-41" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro&amp;nbsp; Exposición CDT materializado" vertex="1">
+        <mxCell id="jasQvDKlpOOdnAEnOWcL-41" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Micro&amp;nbsp; Exposición CDT materializado" vertex="1">
           <mxGeometry height="40" width="140" x="960" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="jasQvDKlpOOdnAEnOWcL-42" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro&amp;nbsp; Exposición CDT desmaterializado" vertex="1">
+        <mxCell id="jasQvDKlpOOdnAEnOWcL-42" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Micro&amp;nbsp; Exposición CDT desmaterializado" vertex="1">
           <mxGeometry height="40" width="140" x="968.65" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="jasQvDKlpOOdnAEnOWcL-43" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro&amp;nbsp; Exposición Bonos" vertex="1">
+        <mxCell id="jasQvDKlpOOdnAEnOWcL-43" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Micro&amp;nbsp; Exposición Bonos" vertex="1">
           <mxGeometry height="40" width="140" x="965.29" y="783.08" as="geometry" />
         </mxCell>
-        <mxCell id="jasQvDKlpOOdnAEnOWcL-44" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro&amp;nbsp; Exposición Cuentas Tradicionales" vertex="1">
+        <mxCell id="jasQvDKlpOOdnAEnOWcL-44" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Micro&amp;nbsp; Exposición Cuentas Tradicionales" vertex="1">
           <mxGeometry height="40" width="140" x="960" y="892" as="geometry" />
         </mxCell>
-        <mxCell id="jasQvDKlpOOdnAEnOWcL-45" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro&amp;nbsp; Exposición Cuentas AFC" vertex="1">
+        <mxCell id="jasQvDKlpOOdnAEnOWcL-45" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="Micro&amp;nbsp; Exposición Cuentas AFC" vertex="1">
           <mxGeometry height="40" width="140" x="963.17" y="983.85" as="geometry" />
         </mxCell>
         <mxCell id="jasQvDKlpOOdnAEnOWcL-46" edge="1" parent="jasQvDKlpOOdnAEnOWcL-1" source="jasQvDKlpOOdnAEnOWcL-3" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;" target="jasQvDKlpOOdnAEnOWcL-40" value="">
@@ -2172,6 +2172,9 @@
         </mxCell>
         <mxCell id="ZjS0UiUA1B22g3CVf3Rr-0" parent="jasQvDKlpOOdnAEnOWcL-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;fillColor=none;strokeColor=#7F00FF;" value="" vertex="1">
           <mxGeometry height="166" width="247.46" x="-45.75999999999999" y="617.08" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjS0UiUA1B22g3CVf3Rr-1" parent="jasQvDKlpOOdnAEnOWcL-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Namespace:&amp;nbsp;nomad-acl-prod-pasi-capt-cdt_materializado-dev&lt;/font&gt;" vertex="1">
+          <mxGeometry height="88.21" width="220" x="-39.75" y="607.79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
