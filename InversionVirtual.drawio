@@ -2736,21 +2736,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GjIY3zTG1-vqTS7YeQWb" name="Page-9">
-    <mxGraphModel dx="1413" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="931" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bGWIvfNbVNqfUB4hW9qW-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;nomad-prod-pasi-capt-cdt-materializado&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="360" y="380" as="geometry" />
-        </mxCell>
         <mxCell id="bGWIvfNbVNqfUB4hW9qW-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;nomad-prod-pasi-capt-bonos&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="360" x="380" y="520" as="geometry" />
         </mxCell>
         <mxCell id="bGWIvfNbVNqfUB4hW9qW-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;nomad-prod-pasi-capt-inversion-virtual&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="360" x="380" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="bGWIvfNbVNqfUB4hW9qW-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;nomad-prod-pasi-capt-cdt-materializado&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="430" y="430" as="geometry" />
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;acl&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="278" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;composición&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="368" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;consulta&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="469" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;contratos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="560" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;template&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="661" y="319" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
