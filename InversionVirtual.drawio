@@ -2740,6 +2740,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="350" width="760" x="30" y="70" as="geometry" />
+        </mxCell>
         <mxCell id="_Tq5C13Kox1zSz2zzNF--17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="230" width="720" x="60" y="170" as="geometry" />
         </mxCell>
@@ -2788,7 +2791,7 @@
         <mxCell id="_Tq5C13Kox1zSz2zzNF--13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="160" width="680" x="90" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="_Tq5C13Kox1zSz2zzNF--14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Captaciones_nivel3&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Captaciones_nivel_3&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="100" y="230" as="geometry" />
         </mxCell>
         <mxCell id="_Tq5C13Kox1zSz2zzNF--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Podria ser una opción, sin embargo, se debe evaluar aprobaciones y manejo&lt;/font&gt;" vertex="1">
@@ -2800,8 +2803,8 @@
             <mxPoint x="850" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Tq5C13Kox1zSz2zzNF--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Captaciones_nivel2&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="77" y="170" as="geometry" />
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ProductosPasivo_nivel_2&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="201" x="77" y="170" as="geometry" />
         </mxCell>
         <mxCell id="_Tq5C13Kox1zSz2zzNF--19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Seguiría estando a nivel muy alto en la cadena de dominios y subdominios&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="260" x="852" y="180" as="geometry" />
@@ -2810,6 +2813,18 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="786" y="198" as="sourcePoint" />
             <mxPoint x="866" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Dominio_productos_nivel_1&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="183" x="60" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Nivel de repo demasiado alto, mucha información en un solo repo, problemas de aprobación y manejo&amp;nbsp;&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="368" x="852" y="77" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--25" edge="1" parent="1" source="_Tq5C13Kox1zSz2zzNF--22" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.068;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" target="_Tq5C13Kox1zSz2zzNF--24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="770" y="94.5" as="sourcePoint" />
+            <mxPoint x="843" y="94.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
