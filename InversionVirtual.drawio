@@ -2791,7 +2791,7 @@
         <mxCell id="_Tq5C13Kox1zSz2zzNF--14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Captaciones_nivel3&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="100" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="_Tq5C13Kox1zSz2zzNF--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Podria ser una opción, sin embargo, se debe evaluar aprobaciones y manejo&lt;/font&gt;" vertex="1">
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Podria ser una opción, sin embargo, se debe evaluar aprobaciones y manejo&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="260" x="850" y="240" as="geometry" />
         </mxCell>
         <mxCell id="_Tq5C13Kox1zSz2zzNF--16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1.004;exitY=0.6;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" value="">
@@ -2802,6 +2802,15 @@
         </mxCell>
         <mxCell id="_Tq5C13Kox1zSz2zzNF--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Captaciones_nivel2&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="77" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Seguiría estando a nivel muy alto en la cadena de dominios y subdominios&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="852" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--20" edge="1" parent="1" source="_Tq5C13Kox1zSz2zzNF--17" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.109;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" target="_Tq5C13Kox1zSz2zzNF--19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="786" y="198" as="sourcePoint" />
+            <mxPoint x="866" y="198" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
