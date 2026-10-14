@@ -2740,6 +2740,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="230" width="720" x="60" y="170" as="geometry" />
+        </mxCell>
         <mxCell id="_Tq5C13Kox1zSz2zzNF--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="91" width="502" x="258" y="289" as="geometry" />
         </mxCell>
@@ -2796,6 +2799,9 @@
             <mxPoint x="770" y="259" as="sourcePoint" />
             <mxPoint x="850" y="259" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_Tq5C13Kox1zSz2zzNF--18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Captaciones_nivel2&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="77" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
