@@ -2350,7 +2350,7 @@
         <mxCell id="JnVtqGt7pxt46yW3Lufe-29" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffcccc;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="88.21" width="155.94" x="467.47999999999996" y="1398" as="geometry" />
         </mxCell>
-        <mxCell id="JnVtqGt7pxt46yW3Lufe-30" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Micro Composición&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CDT Desmaterializado&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="JnVtqGt7pxt46yW3Lufe-30" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Micro Composición&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Elemento C&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(Subdom. 4 o 3)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="458.71" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="JnVtqGt7pxt46yW3Lufe-31" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffcccc;strokeColor=#36393d;" value="" vertex="1">
@@ -2359,7 +2359,7 @@
         <mxCell id="JnVtqGt7pxt46yW3Lufe-32" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffcccc;strokeColor=#36393d;" value="" vertex="1">
           <mxGeometry height="88.21" width="155.94" x="466.71999999999997" y="1533" as="geometry" />
         </mxCell>
-        <mxCell id="JnVtqGt7pxt46yW3Lufe-33" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro Composición Bonos&lt;/font&gt;" vertex="1">
+        <mxCell id="JnVtqGt7pxt46yW3Lufe-33" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro Composición&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Elemento D&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(Subdom. 4 o 3)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="457.95" y="1525" as="geometry" />
         </mxCell>
         <mxCell id="JnVtqGt7pxt46yW3Lufe-34" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro Exposición" vertex="1">
