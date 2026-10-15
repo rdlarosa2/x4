@@ -1950,8 +1950,8 @@
             <mxPoint x="-5.071781999999985" y="550.6458969999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9NX0M3DFNOttPgB_YYv-60" parent="V9NX0M3DFNOttPgB_YYv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;cluster: eks-nomad-nmt-captaciones-dev&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="340" x="-97.99999999999994" y="322" as="geometry" />
+        <mxCell id="V9NX0M3DFNOttPgB_YYv-60" parent="V9NX0M3DFNOttPgB_YYv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;cluster: eks-nomad-nmt-captaciones-dev&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="378" x="-129" y="322" as="geometry" />
         </mxCell>
         <mxCell id="V9NX0M3DFNOttPgB_YYv-61" connectable="0" parent="V9NX0M3DFNOttPgB_YYv-1" style="group" value="" vertex="1">
           <mxGeometry height="105.21000000000004" width="175" x="-4.67" y="490.78999999999996" as="geometry" />
