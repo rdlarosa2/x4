@@ -1729,12 +1729,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gFchI_iYUlEpMed1i85g" name="TresClusters">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2819" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T2HUTbHX2L0TrahcZyxE-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#0000FF;" value="" vertex="1">
-          <mxGeometry height="634" width="261.5" x="-98" y="396" as="geometry" />
+          <mxGeometry height="704" width="268" x="-98" y="396" as="geometry" />
         </mxCell>
         <mxCell id="s6apE1WCr5RKAu7l5XPA-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;fillColor=none;strokeColor=#0000FF;" value="" vertex="1">
           <mxGeometry height="550" width="220" x="-74" y="450" as="geometry" />
@@ -1803,7 +1803,7 @@
           <mxGeometry height="20" width="261.5" x="909.25" y="370" as="geometry" />
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="564" width="261.5" x="915.36" y="397" as="geometry" />
+          <mxGeometry height="664" width="274.64" x="915.36" y="397" as="geometry" />
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro Exposición" vertex="1">
           <mxGeometry height="70" width="146.71" x="965.29" y="753.08" as="geometry" />
@@ -1833,7 +1833,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="624" width="261.5" x="445" y="396" as="geometry" />
+          <mxGeometry height="664" width="255" x="445" y="396" as="geometry" />
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro Composición" vertex="1">
           <mxGeometry height="40" width="140" x="513" y="726" as="geometry" />
@@ -1842,7 +1842,7 @@
           <mxGeometry height="40" width="140" x="484" y="674" as="geometry" />
         </mxCell>
         <mxCell id="gVOW4ynWaWhtS3BbCfwx-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="531.79" width="210" x="470" y="468.21" as="geometry" />
+          <mxGeometry height="507" width="210" x="470" y="468.21" as="geometry" />
         </mxCell>
         <mxCell id="K8evOWJn_mj8GAYl3ypO-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Namespace:&amp;nbsp;nomad--comp-prod-pasi-capt-dev&lt;/font&gt;" vertex="1">
           <mxGeometry height="88.21" width="133.66" x="522.84" y="396" as="geometry" />
@@ -2209,6 +2209,15 @@
             <mxPoint x="377.49" y="681.21" as="sourcePoint" />
             <mxPoint x="487.49" y="631.21" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eH5qTcCEQ72sEzTODB4Y-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=2;fillColor=none;strokeColor=#0000FF;" value="Cartera" vertex="1">
+          <mxGeometry height="40" width="190" x="-65.69999999999999" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="eH5qTcCEQ72sEzTODB4Y-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FFB570;strokeWidth=2;" value="Cartera" vertex="1">
+          <mxGeometry height="30" width="190" x="471.22" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="eH5qTcCEQ72sEzTODB4Y-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#006600;strokeWidth=2;" value="Cartera" vertex="1">
+          <mxGeometry height="30" width="190" x="951.74" y="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
