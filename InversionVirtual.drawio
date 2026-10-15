@@ -3066,7 +3066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Tc6ReZL0L5SsENKVDuQ" name="UnCluster4Namespaces">
-    <mxGraphModel dx="2512" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3140,7 +3140,7 @@
           <mxGeometry height="88.2051282051282" width="133.6633663366337" x="1796.34" y="980" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#006600;strokeWidth=2;" value="" vertex="1">
-          <mxGeometry height="560" width="220" x="1767.97" y="1680" as="geometry" />
+          <mxGeometry height="118.78" width="1200" x="790" y="1348" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=1;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -3485,7 +3485,7 @@
           <mxGeometry height="85.46180428749945" width="145.86633217937592" as="geometry" />
         </mxCell>
         <mxCell id="Zrv07BknS8HuMcp7ZO6Q-5" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="105.21000000000004" width="175" x="1318.25" y="1338" as="geometry" />
+          <mxGeometry height="105.21000000000004" width="175" x="1318.25" y="1364" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-27" parent="Zrv07BknS8HuMcp7ZO6Q-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Micro Composición" vertex="1">
           <mxGeometry height="40" width="140" x="24.75" as="geometry" />
