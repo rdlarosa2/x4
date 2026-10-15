@@ -2750,6 +2750,15 @@
             <mxPoint x="820" y="1278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fZz5gKPfib-9cRVwtfvU-6" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7TeEL8vQ1iyd13JncQcY-56" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1400" />
+            </Array>
+            <mxPoint x="651" y="1328.21" as="sourcePoint" />
+            <mxPoint x="817" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
