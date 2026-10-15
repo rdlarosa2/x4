@@ -2377,7 +2377,7 @@
           <mxGeometry height="60" width="330" x="-88.03" y="340" as="geometry" />
         </mxCell>
         <mxCell id="V9NX0M3DFNOttPgB_YYv-24" parent="V9NX0M3DFNOttPgB_YYv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Para definir el nivel de los namespaces se debe averiguar el tráfico de dominio subnivel 3 o dominio subnivel 4&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="149" width="580" x="-790" y="348" as="geometry" />
+          <mxGeometry height="40" width="751.71" x="-81.71" y="1700" as="geometry" />
         </mxCell>
         <mxCell id="V9NX0M3DFNOttPgB_YYv-27" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Micro Exposición" vertex="1">
           <mxGeometry height="70" width="146.71" x="945.29" y="693.08" as="geometry" />
