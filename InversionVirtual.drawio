@@ -3015,7 +3015,7 @@
           <mxGeometry height="70" width="220" x="-74" y="390" as="geometry" />
         </mxCell>
         <mxCell id="WkTkO0_BpsEwZWtYeHYK-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Para definir el nivel de los namespaces se debe averiguar el tráfico de dominio subnivel 3 o dominio subnivel 4&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="149" width="580" x="-260" y="1090" as="geometry" />
+          <mxGeometry height="149" width="580" x="-264" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="p7jhkjTkUhasv_bh_fnV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;cluster: eks-nomad-nmt-cons-dev&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="261.5" x="909.25" y="370" as="geometry" />
