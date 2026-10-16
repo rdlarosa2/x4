@@ -1100,7 +1100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UnCluster3Namespaces" id="Pa56vtQZsZaUo7fh8-Ml">
-    <mxGraphModel dx="3773" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="V9NX0M3DFNOttPgB_YYv-0" />
         <mxCell id="V9NX0M3DFNOttPgB_YYv-1" parent="V9NX0M3DFNOttPgB_YYv-0" />
@@ -1724,6 +1724,9 @@
             <mxPoint x="1114" y="470" as="sourcePoint" />
             <mxPoint x="1219" y="657" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c7ZAFfsjIAzH3Vs1o3nP-0" parent="V9NX0M3DFNOttPgB_YYv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;DynamoDB&lt;/font&gt;" vertex="1">
+          <mxGeometry height="51" width="100" x="1340" y="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
