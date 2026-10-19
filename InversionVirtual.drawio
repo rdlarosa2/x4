@@ -3541,6 +3541,9 @@
         <mxCell id="GyDDTegCbS5bfZZrJ2QG-1" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tarjeta Prepago" vertex="1">
           <mxGeometry height="30" width="125" x="387.5" y="160" as="geometry" />
         </mxCell>
+        <mxCell id="GyDDTegCbS5bfZZrJ2QG-2" parent="Du242sa9J0-hyOQdl09o-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00CC66;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="110" width="140" x="380" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
