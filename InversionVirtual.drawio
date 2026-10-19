@@ -3471,38 +3471,32 @@
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-6" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="50" y="310" as="sourcePoint" />
+            <mxPoint x="50" y="190" as="sourcePoint" />
             <mxPoint x="50" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-7" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="210" y="310" as="sourcePoint" />
+            <mxPoint x="210" y="190" as="sourcePoint" />
             <mxPoint x="210" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-8" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="370" y="310" as="sourcePoint" />
+            <mxPoint x="370" y="190" as="sourcePoint" />
             <mxPoint x="370" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-9" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="530" y="310" as="sourcePoint" />
+            <mxPoint x="530" y="190" as="sourcePoint" />
             <mxPoint x="530" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-10" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="809" y="310" as="sourcePoint" />
+            <mxPoint x="809" y="190" as="sourcePoint" />
             <mxPoint x="809" y="30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-11" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="50" y="310" as="sourcePoint" />
-            <mxPoint x="810" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-12" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Subdominio (Nivel 2)&lt;/b&gt;" vertex="1">
@@ -3514,18 +3508,6 @@
         <mxCell id="Du242sa9J0-hyOQdl09o-14" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Subdominio (Nivel 4)&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="597" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-15" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="530" y="230" as="sourcePoint" />
-            <mxPoint x="810" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-16" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="530" y="270" as="sourcePoint" />
-            <mxPoint x="810" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-17" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.043;exitY=1.167;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.033;entryY=1.167;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="370.03" y="110.00999999999999" as="sourcePoint" />
@@ -3533,10 +3515,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-18" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Productos&amp;nbsp;&lt;div&gt;[Código PROD]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="60" y="170" as="geometry" />
+          <mxGeometry height="30" width="110" x="75" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-19" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Productos del Pasivo&amp;nbsp;&lt;div&gt;[Código PASI]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="225" y="170" as="geometry" />
+        <mxCell id="Du242sa9J0-hyOQdl09o-19" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Medios de Pago" vertex="1">
+          <mxGeometry height="30" width="110" x="231" y="120" as="geometry" />
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-21" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -3544,23 +3526,20 @@
             <mxPoint x="530" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-25" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Captaciones&amp;nbsp;Sucursal Colombia&amp;nbsp;&lt;div&gt;[Código: CAPT]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="390" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-26" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CDT (Físico, desmaterializado, Inve. Virtual)&amp;nbsp;&lt;div&gt;[Código: CDT]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="280" x="512" y="194" as="geometry" />
+        <mxCell id="Du242sa9J0-hyOQdl09o-26" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tarjeta Crédito" vertex="1">
+          <mxGeometry height="30" width="125" x="387.5" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Du242sa9J0-hyOQdl09o-27" edge="1" parent="Du242sa9J0-hyOQdl09o-1" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="370" y="190" as="sourcePoint" />
+            <mxPoint x="50" y="190" as="sourcePoint" />
             <mxPoint x="810" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-28" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Depósitos (Cta ahorros, Cta corriente y Cta AFC)&amp;nbsp;&lt;div&gt;[Código: DEPOSITOS]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="280" x="530" y="236" as="geometry" />
+        <mxCell id="GyDDTegCbS5bfZZrJ2QG-0" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tarjeta Débito" vertex="1">
+          <mxGeometry height="30" width="125" x="387.5" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="Du242sa9J0-hyOQdl09o-29" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bonos&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[Código: BONOS]&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="280" x="524" y="276" as="geometry" />
+        <mxCell id="GyDDTegCbS5bfZZrJ2QG-1" parent="Du242sa9J0-hyOQdl09o-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tarjeta Prepago" vertex="1">
+          <mxGeometry height="30" width="125" x="387.5" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
