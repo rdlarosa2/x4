@@ -1168,7 +1168,7 @@
           <mxGeometry height="40" width="40" x="10" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Namespace&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;bs0001-nmt-prod-pasi-capt-cdt-acl-dev&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="539.85" x="633.38" y="969" as="geometry" />
+          <mxGeometry height="40" width="340" x="739.8199999999999" y="960" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Para definir el nivel de los namespaces se debe averiguar el tráfico de dominio subnivel 3 o dominio subnivel 4&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="140" width="802.51" x="760" y="1740" as="geometry" />
@@ -1542,6 +1542,9 @@
         </mxCell>
         <mxCell id="aV-wbOCiCxu8oHe_dimg-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;&lt;b style=&quot;&quot;&gt;Namespace&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;bs0001-nmt-prod-pasi-capt-bonos-cons-dev&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="241.81" x="1738.27" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="aV-wbOCiCxu8oHe_dimg-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=3;fillColor=none;strokeColor=#7F00FF;" value="" vertex="1">
+          <mxGeometry height="183.99" width="305" x="1290" y="1163.09" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
