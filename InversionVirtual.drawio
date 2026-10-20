@@ -1100,10 +1100,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Tc6ReZL0L5SsENKVDuQ" name="UnCluster3Namespaces">
-    <mxGraphModel dx="2590" dy="1281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aV-wbOCiCxu8oHe_dimg-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1090" width="2020" x="350" y="750" as="geometry" />
+        </mxCell>
         <mxCell id="8XujzSyk2m-1uVONl3E4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=3;fillColor=none;strokeColor=#009900;" value="" vertex="1">
           <mxGeometry height="172.99" width="1200" x="784" y="1404.6100000000001" as="geometry" />
         </mxCell>
