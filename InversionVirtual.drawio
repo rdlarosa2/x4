@@ -1224,18 +1224,6 @@
         <mxCell id="7TeEL8vQ1iyd13JncQcY-48" parent="7TeEL8vQ1iyd13JncQcY-45" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micros ACL CDT&lt;/font&gt;" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" as="geometry" />
         </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-53" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="105.21000000000004" width="175" x="822.5" y="1447" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-54" parent="7TeEL8vQ1iyd13JncQcY-53" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="88.21" width="146.71" x="28.290000000000006" y="17" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-55" parent="7TeEL8vQ1iyd13JncQcY-53" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="88.21" width="155.94" x="8.77" y="8" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-56" parent="7TeEL8vQ1iyd13JncQcY-53" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro ACL Bonos&lt;/font&gt;" vertex="1">
-          <mxGeometry height="88.2051282051282" width="155.94059405940595" as="geometry" />
-        </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-61" edge="1" parent="1" source="7TeEL8vQ1iyd13JncQcY-107" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1494.9999999999995" y="1266.1050000000002" as="sourcePoint" />
@@ -1277,18 +1265,6 @@
             <mxPoint x="995.5700000000002" y="1563.105" as="sourcePoint" />
             <mxPoint x="1050" y="1563.6100000000001" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-73" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="105.21" width="175" x="1790" y="1234" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-74" parent="7TeEL8vQ1iyd13JncQcY-73" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="88.21" width="146.71" x="28.290000000000006" y="17" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-75" parent="7TeEL8vQ1iyd13JncQcY-73" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
-          <mxGeometry height="88.21" width="155.94" x="8.769999999999996" y="8" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-76" parent="7TeEL8vQ1iyd13JncQcY-73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro Exposición Depósitos&lt;/font&gt;" vertex="1">
-          <mxGeometry height="88.2051282051282" width="155.94059405940595" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-77" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="105.21" width="175" x="1800" y="1445" as="geometry" />
@@ -1365,35 +1341,11 @@
         <mxCell id="7TeEL8vQ1iyd13JncQcY-112" parent="Zrv07BknS8HuMcp7ZO6Q-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Micro Composición&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Bonos&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" as="geometry" />
         </mxCell>
-        <mxCell id="Zrv07BknS8HuMcp7ZO6Q-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="104.0847593582887" width="173.40335242945048" x="822.5" y="1233" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-50" parent="Zrv07BknS8HuMcp7ZO6Q-7" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="87.26657754010694" width="145.3714619138553" x="28.031890515595137" y="16.818181818181756" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-51" parent="Zrv07BknS8HuMcp7ZO6Q-7" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="87.26657754010694" width="154.5172501591343" x="8.689985147464427" y="7.914438502673875" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-52" parent="Zrv07BknS8HuMcp7ZO6Q-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro ACL Depósitos&lt;/font&gt;" vertex="1">
-          <mxGeometry height="87.26175784999315" width="154.51783879852022" as="geometry" />
-        </mxCell>
         <mxCell id="yGZ9tY0c172FKTHCsG3x-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;cluster: eks-nomad-nmt-captaciones-dev&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="378" x="700" y="910" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Namespace: Depositos" vertex="1">
           <mxGeometry height="40" width="140" x="1314" y="1278" as="geometry" />
-        </mxCell>
-        <mxCell id="v65aOJcGWjbpm6v5PvXb-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="102.21000000000004" width="175" x="1320" y="1235" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-107" parent="v65aOJcGWjbpm6v5PvXb-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffcccc;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="88.21" width="146.71" x="28.289999999999964" y="14" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-108" parent="v65aOJcGWjbpm6v5PvXb-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffcccc;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="88.21" width="155.94" x="8.769999999999982" y="5" as="geometry" />
-        </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-109" parent="v65aOJcGWjbpm6v5PvXb-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Micro Composición&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Depósitos&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="88.2051282051282" width="155.94059405940595" as="geometry" />
         </mxCell>
         <mxCell id="v65aOJcGWjbpm6v5PvXb-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Namespace&lt;/b&gt;: bs0001-nmt-prod-pasi-capt-depositos-dev&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="450" x="809.85" y="1192" as="geometry" />
@@ -1502,6 +1454,42 @@
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro Exposición CDT&lt;/font&gt;" vertex="1">
           <mxGeometry height="88.2051282051282" width="155.94059405940595" x="1792.5" y="1027.79" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="87.26657754010694" width="145.3714619138553" x="850.5318905155951" y="1249.8181818181818" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="87.26657754010694" width="154.5172501591343" x="831.1899851474644" y="1240.9144385026739" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro ACL Depósitos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="87.26175784999315" width="154.51783879852022" x="822.5" y="1233" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="88.21" width="146.71" x="1348.29" y="1249" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="88.21" width="155.94" x="1328.77" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Micro Composición&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Depósitos&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="88.2051282051282" width="155.94059405940595" x="1318" y="1233" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="88.21" width="146.71" x="1818.29" y="1251" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="88.21" width="155.94" x="1798.77" y="1242" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro Exposición Depósitos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="88.2051282051282" width="155.94059405940595" x="1790" y="1234" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="88.21" width="146.71" x="850.79" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="88.21" width="155.94" x="831.27" y="1455" as="geometry" />
+        </mxCell>
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Micro ACL Bonos&lt;/font&gt;" vertex="1">
+          <mxGeometry height="88.2051282051282" width="155.94059405940595" x="822.5" y="1447" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
