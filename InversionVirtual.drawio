@@ -1161,8 +1161,8 @@
         <mxCell id="7TeEL8vQ1iyd13JncQcY-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Namespace:&amp;nbsp;nomad-prod-pasi-capt-inversion_virtual-dev&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="450" x="788.92" y="969" as="geometry" />
         </mxCell>
-        <mxCell id="7TeEL8vQ1iyd13JncQcY-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Para definir el nivel de los namespaces se debe averiguar el tráfico de dominio subnivel 3 o dominio subnivel 4&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="140" width="802.51" x="744.67" y="1920" as="geometry" />
+        <mxCell id="7TeEL8vQ1iyd13JncQcY-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Para definir el nivel de los namespaces se debe averiguar el tráfico de dominio subnivel 3 o dominio subnivel 4&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="802.51" x="760" y="1740" as="geometry" />
         </mxCell>
         <mxCell id="7TeEL8vQ1iyd13JncQcY-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=4;fillColor=none;strokeColor=#00CC00;" value="" vertex="1">
           <mxGeometry height="149" width="1200" x="790" y="1415" as="geometry" />
