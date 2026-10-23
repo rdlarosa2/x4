@@ -1550,10 +1550,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UnCluster3Namespaces" id="Pa56vtQZsZaUo7fh8-Ml">
-    <mxGraphModel dx="2637" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4041" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="V9NX0M3DFNOttPgB_YYv-0" />
         <mxCell id="V9NX0M3DFNOttPgB_YYv-1" parent="V9NX0M3DFNOttPgB_YYv-0" />
+        <mxCell id="J0sEwiLcA9NWtyuB-D9v-0" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1650" width="1990" x="-460" y="90" as="geometry" />
+        </mxCell>
         <mxCell id="V9NX0M3DFNOttPgB_YYv-3" parent="V9NX0M3DFNOttPgB_YYv-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeWidth=3;fillColor=none;strokeColor=#0000FF;" value="" vertex="1">
           <mxGeometry height="630" width="220" x="-50" y="390" as="geometry" />
         </mxCell>
@@ -5084,7 +5087,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QgDMg9AQHz4Ce1cgKgbG" name="JerarquiaAWS">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
