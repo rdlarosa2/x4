@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="16">
+<mxfile host="app.diagrams.net" pages="17">
   <diagram name="InversionVirtual-Arquitectura" id="0GqQCN_IWlwztUpSaIPY">
     <mxGraphModel dx="2053" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5078,6 +5078,59 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1180" y="996" as="sourcePoint" />
             <mxPoint x="1210" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QgDMg9AQHz4Ce1cgKgbG" name="Page-17">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z02y5VMB5znzOpAIPEpV-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cuenta AWS (CentralDatos)" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cluster EKS: NOMAD-ACL" vertex="1">
+          <mxGeometry height="40" width="160" x="99" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-5" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="20" x="80" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-2" edge="1" parent="z02y5VMB5znzOpAIPEpV-5" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="100" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-4" edge="1" parent="z02y5VMB5znzOpAIPEpV-5" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="19.5" as="sourcePoint" />
+            <mxPoint x="20" y="19.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pods: ACL Engine + ACL Core (motor de validación)" vertex="1">
+          <mxGeometry height="30" width="293" x="135" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Karpenter: provisioning automático" vertex="1">
+          <mxGeometry height="30" width="293" x="141" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="117" y="200" as="sourcePoint" />
+            <mxPoint x="117" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="117" y="119.5" as="sourcePoint" />
+            <mxPoint x="137" y="119.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z02y5VMB5znzOpAIPEpV-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="118" y="149" as="sourcePoint" />
+            <mxPoint x="138" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
