@@ -5306,9 +5306,6 @@
         <mxCell id="7h4bSOFBkSNjVxIQehUN-10" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Control Plane" vertex="1">
           <mxGeometry height="40" width="210" x="60" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-15" edge="1" parent="q9KlAP98I7tjJBIGIUdq-1" source="7h4bSOFBkSNjVxIQehUN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="7h4bSOFBkSNjVxIQehUN-10" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7h4bSOFBkSNjVxIQehUN-2" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Multi-AZ (3 AZ)" vertex="1">
           <mxGeometry height="30" width="293" x="105" y="320" as="geometry" />
         </mxCell>
