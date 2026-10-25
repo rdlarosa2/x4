@@ -5254,27 +5254,72 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of JerarquiaAWS" id="Kvc99a_GdB6X5yXzAXUv">
-    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q9KlAP98I7tjJBIGIUdq-0" />
         <mxCell id="q9KlAP98I7tjJBIGIUdq-1" parent="q9KlAP98I7tjJBIGIUdq-0" />
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-12" connectable="0" parent="q9KlAP98I7tjJBIGIUdq-1" style="group" value="" vertex="1">
-          <mxGeometry height="130" width="347" x="20" y="20" as="geometry" />
+        <mxCell id="7h4bSOFBkSNjVxIQehUN-11" parent="q9KlAP98I7tjJBIGIUdq-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="245" width="300" x="510" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-1" connectable="0" parent="7h4bSOFBkSNjVxIQehUN-12" style="group" value="" vertex="1">
-          <mxGeometry height="95" width="317" x="30" y="35" as="geometry" />
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-2" connectable="0" parent="q9KlAP98I7tjJBIGIUdq-1" style="group" value="" vertex="1">
+          <mxGeometry height="95" width="317" x="81" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-2" parent="7h4bSOFBkSNjVxIQehUN-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Multi-AZ (3 AZ)" vertex="1">
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-3" parent="Z3pA6ZPGBAIHnkhqRgQI-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Escucha PodPending en todos los namespaces" vertex="1">
           <mxGeometry height="30" width="293" x="24" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-3" parent="7h4bSOFBkSNjVxIQehUN-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="SLA: 99,95% uptime" vertex="1">
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-4" parent="Z3pA6ZPGBAIHnkhqRgQI-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Lanza nodos por node pool según requerimientos" vertex="1">
           <mxGeometry height="30" width="293" x="24" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-4" parent="7h4bSOFBkSNjVxIQehUN-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Backup: etcd snapshots cada 1 hora (Velero)" vertex="1">
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-5" parent="Z3pA6ZPGBAIHnkhqRgQI-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Consolida nodos ociosos (TTL 30s)" vertex="1">
           <mxGeometry height="30" width="293" x="24" y="65" as="geometry" />
         </mxCell>
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-5" connectable="0" parent="7h4bSOFBkSNjVxIQehUN-1" style="group" value="" vertex="1">
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-6" connectable="0" parent="Z3pA6ZPGBAIHnkhqRgQI-2" style="group" value="" vertex="1">
           <mxGeometry height="80" width="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-7" edge="1" parent="Z3pA6ZPGBAIHnkhqRgQI-6" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="80" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-8" edge="1" parent="Z3pA6ZPGBAIHnkhqRgQI-6" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="19.5" as="sourcePoint" />
+            <mxPoint x="20" y="19.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-9" edge="1" parent="Z3pA6ZPGBAIHnkhqRgQI-6" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1" y="49" as="sourcePoint" />
+            <mxPoint x="21" y="49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-10" edge="1" parent="Z3pA6ZPGBAIHnkhqRgQI-6" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="79" as="sourcePoint" />
+            <mxPoint x="20" y="79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-11" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Karpenter Autoscaler (centralizado)" vertex="1">
+          <mxGeometry height="40" width="210" x="60" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7h4bSOFBkSNjVxIQehUN-10" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Control Plane" vertex="1">
+          <mxGeometry height="40" width="210" x="60" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-15" edge="1" parent="q9KlAP98I7tjJBIGIUdq-1" source="7h4bSOFBkSNjVxIQehUN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="7h4bSOFBkSNjVxIQehUN-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7h4bSOFBkSNjVxIQehUN-2" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Multi-AZ (3 AZ)" vertex="1">
+          <mxGeometry height="30" width="293" x="105" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7h4bSOFBkSNjVxIQehUN-3" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="SLA: 99,95% uptime" vertex="1">
+          <mxGeometry height="30" width="293" x="105" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="7h4bSOFBkSNjVxIQehUN-4" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Backup: etcd snapshots cada 1 hora (Velero)" vertex="1">
+          <mxGeometry height="30" width="293" x="105" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7h4bSOFBkSNjVxIQehUN-5" connectable="0" parent="q9KlAP98I7tjJBIGIUdq-1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="21" x="81" y="315" as="geometry" />
         </mxCell>
         <mxCell id="7h4bSOFBkSNjVxIQehUN-6" edge="1" parent="7h4bSOFBkSNjVxIQehUN-5" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -5300,11 +5345,47 @@
             <mxPoint x="20" y="79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-10" parent="7h4bSOFBkSNjVxIQehUN-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Control Plane" vertex="1">
-          <mxGeometry height="40" width="210" x="9" as="geometry" />
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-24" connectable="0" parent="q9KlAP98I7tjJBIGIUdq-1" style="group" value="" vertex="1">
+          <mxGeometry height="59" width="300" x="60" y="27" as="geometry" />
         </mxCell>
-        <mxCell id="7h4bSOFBkSNjVxIQehUN-11" parent="7h4bSOFBkSNjVxIQehUN-12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="124" width="300" y="5" as="geometry" />
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-13" parent="Z3pA6ZPGBAIHnkhqRgQI-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CUENTA AWS: CentralDatos" vertex="1">
+          <mxGeometry height="30" width="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-22" connectable="0" parent="Z3pA6ZPGBAIHnkhqRgQI-24" style="group" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="20" y="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-18" edge="1" parent="Z3pA6ZPGBAIHnkhqRgQI-22" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-19" edge="1" parent="Z3pA6ZPGBAIHnkhqRgQI-22" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="19.5" as="sourcePoint" />
+            <mxPoint x="20" y="19.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-23" parent="Z3pA6ZPGBAIHnkhqRgQI-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="CLUSTER EKS: NOMAD_PLATFORM" vertex="1">
+          <mxGeometry height="40" width="255" x="45" y="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-25" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Node Pool &quot;nomad-acl&quot;" vertex="1">
+          <mxGeometry height="30" width="210" x="60" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-26" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Taints: capa-acl" vertex="1">
+          <mxGeometry height="30" width="210" x="60" y="114" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-27" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Pods: ACL Engine + ACL Core" vertex="1">
+          <mxGeometry height="30" width="210" x="60" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-28" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Capacity: on-demand + spot" vertex="1">
+          <mxGeometry height="30" width="210" x="60" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-29" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Scaling: 3-8 nodos" vertex="1">
+          <mxGeometry height="30" width="210" x="60" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3pA6ZPGBAIHnkhqRgQI-30" parent="q9KlAP98I7tjJBIGIUdq-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="PDB: min 2 replicas" vertex="1">
+          <mxGeometry height="30" width="210" x="60" y="234" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
