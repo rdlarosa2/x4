@@ -6008,6 +6008,12 @@
         <mxCell id="ENdcPyYoZBQepVKMZTtZ-2" parent="ENdcPyYoZBQepVKMZTtZ-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="60" y="80" as="geometry" />
         </mxCell>
+        <mxCell id="ENdcPyYoZBQepVKMZTtZ-3" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Outcome out = refresh()">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="180" y="301" as="sourcePoint" />
+            <mxPoint x="361" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
