@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="23">
+<mxfile host="app.diagrams.net" pages="24">
   <diagram name="InversionVirtual-Arquitectura" id="0GqQCN_IWlwztUpSaIPY">
     <mxGraphModel dx="2053" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5713,8 +5713,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="N6sP13naFZWWFKKI6E2v" name="Page-22">
-    <mxGraphModel dx="1334" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="N6sP13naFZWWFKKI6E2v" name="KafkaBatchL">
+    <mxGraphModel dx="1589" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5837,7 +5837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZCBePTWOF9mycS0_4X7s" name="DiagrClases">
-    <mxGraphModel dx="1178" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5993,6 +5993,20 @@
         </mxCell>
         <mxCell id="6GU9zPK__0MU31GDMpga-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="logicalTypeOptions: true" vertex="1">
           <mxGeometry height="18.93" width="298.14" x="658" y="266.79" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="j4n8Ti3kkRHtuk1rmurN" name="Page-24">
+    <mxGraphModel dx="1589" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ENdcPyYoZBQepVKMZTtZ-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":LoadPlanUseCase" vertex="1">
+          <mxGeometry height="300" width="130" x="300" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ENdcPyYoZBQepVKMZTtZ-2" parent="ENdcPyYoZBQepVKMZTtZ-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="60" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
