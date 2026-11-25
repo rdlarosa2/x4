@@ -5874,27 +5874,6 @@
             <mxPoint x="510" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6GU9zPK__0MU31GDMpga-17" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="112" width="350" x="650" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="6GU9zPK__0MU31GDMpga-6" parent="6GU9zPK__0MU31GDMpga-17" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" value="" vertex="1">
-          <mxGeometry height="112" width="350" as="geometry" />
-        </mxCell>
-        <mxCell id="6GU9zPK__0MU31GDMpga-16" connectable="0" parent="6GU9zPK__0MU31GDMpga-17" style="group" value="" vertex="1">
-          <mxGeometry height="92" width="295" x="10" as="geometry" />
-        </mxCell>
-        <mxCell id="6GU9zPK__0MU31GDMpga-8" parent="6GU9zPK__0MU31GDMpga-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="id: captaciones.bonos" vertex="1">
-          <mxGeometry height="30" width="160" as="geometry" />
-        </mxCell>
-        <mxCell id="6GU9zPK__0MU31GDMpga-9" parent="6GU9zPK__0MU31GDMpga-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="version: v3.2.0" vertex="1">
-          <mxGeometry height="30" width="160" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6GU9zPK__0MU31GDMpga-12" parent="6GU9zPK__0MU31GDMpga-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="domain: captaciones" vertex="1">
-          <mxGeometry height="30" width="160" y="41" as="geometry" />
-        </mxCell>
-        <mxCell id="6GU9zPK__0MU31GDMpga-15" parent="6GU9zPK__0MU31GDMpga-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="tenant: bancolombia (owner)" vertex="1">
-          <mxGeometry height="30" width="295" y="62" as="geometry" />
-        </mxCell>
         <mxCell id="6GU9zPK__0MU31GDMpga-18" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&amp;lt;record&amp;gt; Schema" vertex="1">
           <mxGeometry height="190" width="360" x="790" y="380" as="geometry" />
         </mxCell>
@@ -5927,6 +5906,24 @@
         </mxCell>
         <mxCell id="6GU9zPK__0MU31GDMpga-26" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;schema&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="80" x="667" y="448" as="geometry" />
+        </mxCell>
+        <mxCell id="6GU9zPK__0MU31GDMpga-6" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" value="" vertex="1">
+          <mxGeometry height="229.99999999999997" width="480" x="580" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6GU9zPK__0MU31GDMpga-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="id: captaciones.bonos" vertex="1">
+          <mxGeometry height="26" width="219.43" x="593.71" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6GU9zPK__0MU31GDMpga-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="version: v3.2.0" vertex="1">
+          <mxGeometry height="18.93" width="219.43" x="593.71" y="63.06999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="6GU9zPK__0MU31GDMpga-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="domain: captaciones" vertex="1">
+          <mxGeometry height="18.93" width="226.29" x="593.71" y="85.2" as="geometry" />
+        </mxCell>
+        <mxCell id="6GU9zPK__0MU31GDMpga-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="tenant: bancolombia (owner)" vertex="1">
+          <mxGeometry height="26" width="396.29" x="593.71" y="104.13" as="geometry" />
+        </mxCell>
+        <mxCell id="6GU9zPK__0MU31GDMpga-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="schema:" vertex="1">
+          <mxGeometry height="26" width="396.29" x="593.71" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
