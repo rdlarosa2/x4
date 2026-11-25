@@ -5976,6 +5976,9 @@
             <mxPoint x="1370" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6GU9zPK__0MU31GDMpga-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="description: Evento canónico de movimiento sobre una posicion de bonos&amp;nbsp;" vertex="1">
+          <mxGeometry height="18.93" width="420.14" x="629.86" y="276" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
