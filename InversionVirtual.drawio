@@ -6000,7 +6000,7 @@
         <mxCell id="TtaLV9-ykGtLX2WiDVEm-2" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- &lt;b&gt;contractId&lt;/b&gt;: String /* Ejemplo: &quot;captaciones.bonos&quot; */" vertex="1">
           <mxGeometry height="26" width="332" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="TtaLV9-ykGtLX2WiDVEm-5" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- version: String" vertex="1">
+        <mxCell id="TtaLV9-ykGtLX2WiDVEm-5" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- version: String&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;/* Ejemplo: 1.0.0 */" vertex="1">
           <mxGeometry height="26" width="332" y="48" as="geometry" />
         </mxCell>
         <mxCell id="TtaLV9-ykGtLX2WiDVEm-6" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- digest: String" vertex="1">
