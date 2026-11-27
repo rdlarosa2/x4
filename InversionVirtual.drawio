@@ -5837,7 +5837,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZCBePTWOF9mycS0_4X7s" name="DiagrClases">
-    <mxGraphModel dx="1334" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1264" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6071,6 +6071,13 @@
         </mxCell>
         <mxCell id="M4JDepKcyAaDXsVAXImZ-10" parent="M4JDepKcyAaDXsVAXImZ-7" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ method(type): type" vertex="1">
           <mxGeometry height="26" width="160" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="M4JDepKcyAaDXsVAXImZ-16" edge="1" parent="1" source="M4JDepKcyAaDXsVAXImZ-1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="M4JDepKcyAaDXsVAXImZ-7" value="mappers: Mapper[]">
+          <mxGeometry relative="1" x="-0.3247" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="696.86" y="1093" as="sourcePoint" />
+            <mxPoint x="886.86" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
