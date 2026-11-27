@@ -5995,7 +5995,7 @@
           <mxGeometry height="18.93" width="298.14" x="658" y="266.79" as="geometry" />
         </mxCell>
         <mxCell id="TtaLV9-ykGtLX2WiDVEm-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=22;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="CompiledPlan" vertex="1">
-          <mxGeometry height="316" width="332" x="318" y="850" as="geometry" />
+          <mxGeometry height="368" width="332" x="318" y="850" as="geometry" />
         </mxCell>
         <mxCell id="TtaLV9-ykGtLX2WiDVEm-2" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- &lt;b&gt;contractId&lt;/b&gt;: String /* Ejemplo: &quot;captaciones.bonos&quot; */" vertex="1">
           <mxGeometry height="26" width="332" y="22" as="geometry" />
@@ -6027,11 +6027,17 @@
         <mxCell id="M4JDepKcyAaDXsVAXImZ-2" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- occurredAtMapper: Mapper" vertex="1">
           <mxGeometry height="26" width="332" y="256" as="geometry" />
         </mxCell>
+        <mxCell id="M4JDepKcyAaDXsVAXImZ-3" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- entityIdPath: String[]" vertex="1">
+          <mxGeometry height="26" width="332" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="M4JDepKcyAaDXsVAXImZ-4" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- schemaChecks: SchemaCheck[]" vertex="1">
+          <mxGeometry height="26" width="332" y="308" as="geometry" />
+        </mxCell>
         <mxCell id="TtaLV9-ykGtLX2WiDVEm-3" parent="TtaLV9-ykGtLX2WiDVEm-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="8" width="332" y="282" as="geometry" />
+          <mxGeometry height="8" width="332" y="334" as="geometry" />
         </mxCell>
         <mxCell id="TtaLV9-ykGtLX2WiDVEm-4" parent="TtaLV9-ykGtLX2WiDVEm-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ method(type): type" vertex="1">
-          <mxGeometry height="26" width="332" y="290" as="geometry" />
+          <mxGeometry height="26" width="332" y="342" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
